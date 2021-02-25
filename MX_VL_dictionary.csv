@@ -1,0 +1,17 @@
+﻿variable,definition
+randomid,participant ID
+group,randomization arm
+employ,baseline employment status
+primi,primigravid
+en_age,baseline age
+te_sharestudyphone,shares study phone at baseline
+di_disctopart,disclosed to partner at baseline
+en_educyrs,baseline education in years
+imb_i_pct,IMB information % score
+imb_m_pct,IMB motivation % score
+imb_b_pct,IMB behavior skills % score
+imbscore_pct,IMB composite % score
+vl,VL result c/ml
+survtime,finalized time for survival analysis
+fail_inivf,categorical vl nonsuppression
+detect_inivd,categorical vl detection

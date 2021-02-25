@@ -1,0 +1,12 @@
+﻿variable,definition
+randomid,participant ID
+group,randomization arm
+employ,baseline employment status
+primi,primigravid
+outcome,finalized outcome (death or HIV acquisition)
+survtime_ext,survival time (days)
+survtime_850,survival time (days) trimmed at 850 days
+survtime_neg,survival time assuming all unknown outcomes are survival to 850 days
+outcome_neg,outcome assuming all unknown outcomes are survival to 850 days
+survtime_pos,survival time assuming all unknown outcomes are immediate death/HIV acquisition
+outcome_pos,outcome assuming all unknown outcomes are immediate death/HIV acquisition

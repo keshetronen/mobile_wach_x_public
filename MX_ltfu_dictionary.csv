@@ -1,0 +1,7 @@
+﻿variable,definition
+randomid,participant ID
+group,randomization arm
+employ,baseline employment status
+primi,primigravid
+timesinceenr,days since enrollment
+ltfu,categorical loss to follow-up status
