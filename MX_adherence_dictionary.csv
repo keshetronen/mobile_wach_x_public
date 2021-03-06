@@ -1,0 +1,6 @@
+﻿variable,definition
+randomid,participant ID
+group,randomization arm
+employ,baseline employment status
+primi,primigravid
+adhere,binary adherence
